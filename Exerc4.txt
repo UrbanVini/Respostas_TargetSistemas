@@ -1,0 +1,6 @@
+Os dois estarãõ na mesma distancia porque: Tempo = distancia/velocidade
+O tempo do carro da 0,9 horas e o do caminhao da 1,25hrs
+somando mais 10 min no do caminhao por conta dos pedágios
+distancia percorrida pelo carro  = 110km/h * 0,9h = 100km
+distancia percorrida pelo caminaho  = 80km/h * 1,46h = 116km
+Logo, o carro chega primeiro
